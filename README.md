@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi! I'm William
 
-<!--
-**renaissancedog/renaissancedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+[**UIL Team Website**](https://reagan-uil.github.io)
+- Used HTML and CSS to create a responsive, accessible, and professional-looking website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Project Website**](https://renaissancedog.github.io/myprojects)
+- Used web technologies like HTML, CSS, Javascript and React to create several functional games and apps
+
+## Education
+
+High School, class of 2027
+
+AP courses taken: AP Human Geography, AP Precalculus, AP Statistics
+
+## Experience
+
+**Languages**: HTML/CSS/Javascript, Typescript, Java, Python 3
+
+**Tools & frameworks**: Git, Vim, Jupyter, Node.js, React
+
+**Roles**: UIL Math Team Captain, UIL Team Webmaster
+
+## Awards
+
+**2024 MAA AIME Qualifier**: top ~5% of all test takers in the AMC 10, a nationwide math contest
+
+**2023 1st Place, AMC 10, High School**: scored highest in school out of >20 test-takers
+
+**2023 PSAT 8/9 Perfect Score**
+
+**2023 MATHCOUNTS Chapter Competition 3rd Place, State Qualifier**
+
+Template &copy; 2024 William. All rights reserved.
