@@ -1,4 +1,4 @@
-# Hi! I'm William
+# Hi! I'm William.
 
 ## Projects
 
@@ -26,7 +26,7 @@ AP courses taken: AP Human Geography, AP Precalculus, AP Statistics
 
 **2024 MAA AIME Qualifier**: top ~5% of all test takers in the AMC 10, a nationwide math contest
 
-**2023 1st Place, AMC 10, High School**: scored highest in school out of >20 test-takers
+**2023 1st Place, AMC 10, High School**: scored highest in school out of 25 test-takers
 
 **2023 PSAT 8/9 Perfect Score**
 
