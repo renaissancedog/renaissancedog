@@ -18,7 +18,7 @@ AP courses taken: AP Human Geography, AP Precalculus, AP Statistics
 
 **Languages**: HTML/CSS/Javascript, Typescript, Java, Python 3
 
-**Tools & frameworks**: Git, Vim, Jupyter, Node.js, React
+**Tools & frameworks**: Git, Vim, Jupyter, Node.js, React, Pandas, Numpy, Scikit-Learn
 
 **Roles**: UIL Math Team Captain, UIL Team Webmaster
 
