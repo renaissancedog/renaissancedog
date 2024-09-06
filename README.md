@@ -8,6 +8,9 @@
 [**Project Website**](https://renaissancedog.github.io/myprojects)
 - Used web technologies like HTML, CSS, Javascript and React to create several functional games and apps
 
+[**Reagan High School Bell Schedule**](https://renaissancedog.github.io/reagan-schedule/)
+- Built an app to keep track of the school bell schedule
+
 ## Education
 
 High School, class of 2027
