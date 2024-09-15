@@ -5,7 +5,7 @@
 [**UIL Team Website**](https://reagan-uil.github.io)
 - Used HTML and CSS to create a responsive, accessible, and professional-looking website
 
-[**Project Website**](https://renaissancedog.github.io/myprojects)
+[**Personal Website**](https://renaissancedog.github.io)
 - Used web technologies like HTML, CSS, Javascript and React to create several functional games and apps
 
 [**Reagan Bell Schedule**](https://renaissancedog.github.io/reagan-schedule/)
