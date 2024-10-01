@@ -21,7 +21,7 @@ AP courses taken: AP Human Geography, AP Precalculus, AP Statistics
 
 **Languages**: HTML/CSS/Javascript, Typescript, Java, Python
 
-**Tools, libraries & frameworks**: Git, Vim, Jupyter, Node.js, React, Pandas, Numpy, Scikit-Learn, Matplotlib, Svelte
+**Tools, libraries & frameworks**: Git, Vim, Jupyter, Node.js, Svelte, Pandas, Numpy, Scikit-Learn, Matplotlib, React
 
 **Roles**: UIL Math Team Captain, UIL Team Webmaster, San Antonio Math Circle Co-Founder
 
