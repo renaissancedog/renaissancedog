@@ -1,15 +1,7 @@
 # Hi! I'm William.
 
-## Projects
-
-[**UIL Team Website**](https://reagan-uil.github.io)
-- Used HTML and CSS to create a responsive, accessible, and professional-looking website
-
-[**Personal Website**](https://renaissancedog.github.io)
-- Used web technologies like HTML, CSS, Javascript and React to create several functional games and apps
-
-[**Reagan Bell Schedule**](https://renaissancedog.github.io/reagan-schedule/)
-- Built an app to keep track of the school bell schedule
+[**My Website**](https://renaissancedog.github.io)
+- Check it out!
 
 ## Education
 
@@ -24,15 +16,5 @@ AP courses taken: AP Human Geography, AP Precalculus, AP Statistics
 **Tools, libraries & frameworks**: Git, Vim, Jupyter, Node.js, Svelte, Pandas, Numpy, Scikit-Learn, Matplotlib, React
 
 **Roles**: UIL Math Team Captain, UIL Team Webmaster, San Antonio Math Circle Co-Founder
-
-## Awards
-
-**2024 MAA AIME Qualifier**: top ~5% of all test takers in the AMC 10, a nationwide math contest
-
-**2023 1st Place, AMC 10, High School**: scored highest in school out of 25 test-takers
-
-**2023 PSAT 8/9 Perfect Score**
-
-**2023 MATHCOUNTS Chapter Competition 3rd Place, State Qualifier**
 
 Template &copy; 2024 William. All rights reserved.
