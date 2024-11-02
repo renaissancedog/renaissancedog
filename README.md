@@ -1,16 +1,12 @@
 # Hi! I'm William.
 I'm a high school sophomore who loves to code.
 
-[**My Website**](https://renaissancedog.github.io)
-- Check it out!
-
-[**Projects**](https://renaissancedog.github.io/projects)
-- Random stuff not cool enough for my website 
-
+[**Check out my website!**](https://renaissancedog.github.io)
+  
 ## Experience
 
-**Languages**: HTML/CSS/Javascript, Typescript, Java, Python
+**Languages**: HTML/CSS/Javascript, Java, Python
 
-**Tools, libraries & frameworks**: Git, Vim, Jupyter, Node.js, Svelte, Pandas, Numpy, Scikit-Learn, Matplotlib, React
+**Tools, libraries & frameworks**: Git, Vim, Node.js/npm, pnpm, Svelte, Pandas, Matplotlib
 
 Template &copy; 2024 William. All rights reserved.
