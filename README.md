@@ -1,5 +1,5 @@
 # Hi! I'm William.
-I'm a high school sophomore who loves to code.
+I'm a high school sophomore who loves Elana.
 
 [**Check out my website!**](https://renaissancedog.github.io)
   
