@@ -1,6 +1,6 @@
 # Hi! I'm William.
-I'm a high school sophomore who likes to code sometimes.
+I'm a high school junior who likes to code sometimes.
 
 [**Check out my website!**](https://renaissancedog.github.io)
 
-Template &copy; 2024 William. All rights reserved.
+Template &copy; 2025 William. All rights reserved.
